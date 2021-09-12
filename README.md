@@ -16,14 +16,14 @@ A simple REST API built using Node.js and express connecting a Postgresql databa
 
 1. Download repository: 
 
-     $ git clone https://github.com/ivah-y/simple-REST-API-using-node.js--express--and-postgresql.git
+     `$ git clone https://github.com/ivah-y/simple-REST-API-using-node.js--express--and-postgresql.git`
 
 2. Go to directory
 
-    $ cd /simple-REST-API-using-node.js--express--and-postgresql
+    `$ cd /simple-REST-API-using-node.js--express--and-postgresql`
 
 3. Create PostgreSQL database and add access credentials to your own.
-    $ psql postgres
+    `$ psql postgres`
 
 4. Copy text from init.sql and paste to postgres=# 
 
