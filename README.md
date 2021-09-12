@@ -35,4 +35,4 @@ A simple REST API built using Node.js and express connecting a Postgresql databa
 
 
 ##### disclaimer
-`please be ez on me on this one. This is my first API and I well understand that it is not a good practice to put apikey in the db. I am still going over the code and I am still going over on how to put a secure API key using HTTP headers.`
+`please be ez on me on this one. This is my first API and I well understand that it is not a good practice to put apikey in the db. I am still going over the code and I am still learning on how to put a secure API key using HTTP headers.`
